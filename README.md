@@ -3,7 +3,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 Internship Category - Data Science and Business Analytics
 
-Task-1 : Prediction using Supervised ML.
+Task-1 : Prediction using Supervised Machine Learning.
 
 1.Predict the percentage of marks of an student based on the number of study hours.
 
@@ -16,3 +16,7 @@ Task-1 : Prediction using Supervised ML.
 5.What will be predicted score if a student studies for 9.25 hrs/ day?
 
 My Solution: 
+
+YouTube : https://youtu.be/sjspm_4DVJI
+
+
