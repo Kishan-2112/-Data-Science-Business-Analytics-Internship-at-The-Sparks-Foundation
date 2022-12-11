@@ -3,7 +3,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 Internship Category - Data Science and Business Analytics
 
-Task-1 : Prediction using Supervised Machine Learning.
+Task#1 : Prediction using Supervised Machine Learning.
 
 1.Predict the percentage of marks of an student based on the number of study hours.
 
@@ -18,5 +18,11 @@ Task-1 : Prediction using Supervised Machine Learning.
 My Solution: 
 
 YouTube : https://youtu.be/sjspm_4DVJI
+
+Task#2 : Prediction using Unsupervised Machine Learning.
+
+In this task we have iris dataset and we need to predict the optimum number of clusters and represent it visually.
+
+Solution : 
 
 
