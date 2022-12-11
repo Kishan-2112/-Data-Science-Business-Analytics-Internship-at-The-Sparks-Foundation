@@ -23,6 +23,6 @@ Task#2 : Prediction using Unsupervised Machine Learning.
 
 In this task we have iris dataset and we need to predict the optimum number of clusters and represent it visually.
 
-Solution : 
+Solution : https://youtu.be/fNzbDPPnAEU
 
 
