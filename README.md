@@ -25,4 +25,6 @@ In this task we have iris dataset and we need to predict the optimum number of c
 
 Solution : https://youtu.be/fNzbDPPnAEU
 
+Task#3 : Created Super Store Dashboard using PowerBI
+
 
